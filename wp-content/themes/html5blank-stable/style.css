@@ -46,6 +46,14 @@ body {
 .clear {
     *zoom:1;
 }
+
+.content strong{
+	color: white;
+	font-weight: 900;
+	font-size: 1.5em;
+	text-align: right;
+}
+
 img {
 	max-width:100%;
 	vertical-align:bottom;
@@ -80,9 +88,14 @@ input:focus {
 	margin:0 auto;
 	position:relative;
 }
+
+.content{
+	text-align: right;
+}
+
 /* header */
 .header {
-
+	background-color: rgba(0,0,0,0.8);
 }
 /* logo */
 .logo {

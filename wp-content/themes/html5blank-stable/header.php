@@ -38,19 +38,12 @@
 					</div>
 					<div class="col-sm-4">
 						<div class="content">
-							<a href="https://www.google.com/maps/place/Maverick+Coffee/@33.579699,-111.9262567,17z/data=!3m1!4b1!4m5!3m4!1s0x872b74ea40456457:0x2a32ac882aa005a3!8m2!3d33.579699!4d-111.924068">
-								10269 N Scottsdale Rd.</br>
-								Scottsdale, AZ 85253</br>
-							</a>
+							<a href="https://www.google.com/maps/place/Maverick+Coffee/@33.579699,-111.9262567,17z/data=!3m1!4b1!4m5!3m4!1s0x872b74ea40456457:0x2a32ac882aa005a3!8m2!3d33.579699!4d-111.924068"><strong>10269 N Scottsdale Rd.</br>Scottsdale, AZ 85253</br></strong></a>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="content">
-							<p align="right">
-								M T Th: 6:30AM - 5:30PM</br>
-								W F: 6:30AM - 7:00pm</br>
-								S - S: 7:00AM - 5:00PM</br>
-							</p>
+							<strong>M T Th: 6:30AM - 5:30PM</br>W F: 6:30AM - 7:00pm</br>S - S: 7:00AM - 5:00PM</br></strong>
 						</div>
 					</div>
 				</div>
